@@ -1,2 +1,2 @@
 # CSU11013-Programming-Project
-Individual exercise solutions and group project included.
+Individual exercises and the final group project included.
